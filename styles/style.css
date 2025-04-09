@@ -3,3 +3,17 @@
 p{
     color: thistle;
 }
+p.song{
+    color: blue; 
+}
+
+a{
+    color: darkred;
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-style: italic;
+}
