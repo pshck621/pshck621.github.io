@@ -2,11 +2,14 @@
 layout: about
 title: 박소현의 사이트
 permalink: /
-subtitle: <a href="https://www.snu.ac.kr">서울대학교</a> | <a href="https://humanities.snu.ac.kr">인문대학</a> | <a href="https://dsh.snu.ac.kr">연계전공 인문데이터과학</a>
+subtitle: >
+  <a href="https://www.snu.ac.kr">서울대학교</a> |
+  <a href="https://humanities.snu.ac.kr">인문대학</a> |
+  <a href="https://dsh.snu.ac.kr">연계전공 인문데이터과학</a>
 
 profile:
   align: right
-  image: https://i.pinimg.com/736x/f9/9d/ac/f99dac073fb51357adc3e3e8a77e69f5.jpg
+  image: https://i.pinimg.com/736x/f9/9d/ac/f99dac073fb51357adc3e3e8a77e69f5.jpg)
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>귀여운 고양이를 보고 너무 **힐링**됩니다.</p>
@@ -25,6 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-박소현는 2021년 서울대학교 인문계열에 입학했습니다. 2022년에 언어학과에 집입했습니다. 2022년 가을학기에 인문데이터과학 연계전공 진입했습니다.
+박소현은 서울대학교 인문대학 언어학과 학생으로, 인문데이터과학 연계전공을 이수 중입니다.  
+언어와 데이터의 접점에 흥미를 느끼며, 자연어처리와 언어학의 융합 연구에 관심을 갖고 있습니다.
 
 [인문데이터과학개론]에서는 최근 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다.
