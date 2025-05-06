@@ -1,8 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: 박소현의 블로그
-subtitle: "[인문데이터과학개론] 수업 실습용"
+title: blog
 nav: true
 nav_order: 1
 pagination:

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 박소현의 사이트
+title: about
 permalink: /
 subtitle: >
   <a href="https://www.snu.ac.kr">서울대학교</a> |
@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: https://i.pinimg.com/736x/f9/9d/ac/f99dac073fb51357adc3e3e8a77e69f5.jpg)
+  image: cat_meme.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>귀여운 고양이를 보고 너무 **힐링**됩니다.</p>
