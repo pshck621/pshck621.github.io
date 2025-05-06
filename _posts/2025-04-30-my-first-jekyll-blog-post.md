@@ -2,8 +2,8 @@
 layout: post
 title: "나의 첫 Jekyll 블로그 포스트”
 date: 2025-04-30 16:30 +0900
-categories: ['웹개발", Jekyll]
+categories: ["웹개발", Jekyll]
 tags: [github-pages, blog]
 author: 박소현
 ---
-이것은 나의 펏 Jekyll 블로그 포스트입니다. 
+이것은 나의 첫 Jekyll 블로그 포스트입니다. 
