@@ -12,7 +12,7 @@ profile:
   image: cat_meme.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>귀여운 고양이를 보고 너무 **힐링**됩니다.</p>
+    <p>귀여운 고양이를 보고 너무 힐링됩니다.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
