@@ -2,12 +2,9 @@
 
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
-## Table of Contents
-
 <!--ts-->
 
 - [Customize](#customize)
-  - [Table of Contents](#table-of-contents)
   - [Project structure](#project-structure)
   - [Configuration](#configuration)
   - [Modifying the CV information](#modifying-the-cv-information)
@@ -33,9 +30,10 @@ Here we will give you some tips on how to customize the website. One important t
     - [Personal Access Token (fine-grained) Permissions for Lighthouse Badger:](#personal-access-token-fine-grained-permissions-for-lighthouse-badger)
   - [Customizing fonts, spacing, and more](#customizing-fonts-spacing-and-more)
   - [Scheduled Posts](#scheduled-posts)
-  _ [Name Format](#name-format)
-  _ [Important Notes](#important-notes)
-  <!--te-->
+    - [Name Format](#name-format)
+    - [Important Notes](#important-notes)
+
+<!--te-->
 
 ## Project structure
 
