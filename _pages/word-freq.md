@@ -12,6 +12,7 @@ nav_order: 4
 <button onclick="updateChart()">제출</button>
 
 ## 단어 빈도 시각화
+
 <div>
     <canvas id="myChart"></canvas>
 </div>
