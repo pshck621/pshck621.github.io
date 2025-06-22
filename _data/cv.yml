@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 21st June 2002
     - name: Languages
-      value: Korean, Mandarin, English
+      value: Mandarin, Korean,English
 
 - title: Education
   type: time_table
