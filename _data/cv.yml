@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sohyun Park
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st June 2002
     - name: Languages
-      value: English, German
+      value: Korean, Mandarin, English
 
 - title: Education
   type: time_table
